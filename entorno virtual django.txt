@@ -1,0 +1,3 @@
+1er crear ambiente virtgual, crear carpeta vacia, tener instalado python y virtualenv , ejecutando vitualenv en la carpeta creada se crean los archivos  para el ambiente virtual.-desde cmd 
+
+2do instalar github desktop.com 
